@@ -1,9 +1,11 @@
 # HHH-11144
-** orphanRemoval not working when other same-table-relations are initialized
+**orphanRemoval not working when other same-table-relations are initialized**
 
 execute as 
     
 	mvn test
+
+---
 
 using these entities:
 
